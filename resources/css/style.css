@@ -28,3 +28,6 @@ a:-webkit-any-link {
   cursor: auto;
   text-decoration: underline;
 }
+. footer {
+  text-align: right;
+}
